@@ -1,2 +1,2 @@
-![img](img.jpg)
+![img](https://github.com/DigitalMindsUA/.github/raw/main/profile/img.jpg)
 # Coming soon...
