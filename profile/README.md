@@ -1,2 +1,2 @@
-![img](profile/img.jpg)
+![img](img.jpg)
 # Coming soon...
