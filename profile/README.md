@@ -30,9 +30,13 @@ Feel free to explore our repositories and get involved in our open-source projec
 
 ## Contact
 
-If you have any questions, ideas, or would like to collaborate, feel free to reach out to us at [contact@digitalmindsua.com](mailto:contact@digitalmindsua.com). You can also visit our website at [www.digitalmindsua.com](https://www.digitalmindsua.com) for more information about our company.
+If you have any questions, ideas, or would like to collaborate, feel free to reach out to us at [digitalmindsua@gmail.com](mailto:digitalmindsua@gmail.com). 
 
-Follow us on [Twitter](https://twitter.com/DigitalMindsUA) for regular updates and behind-the-scenes insights.
+<!---
+You can also visit our website at [www.digitalmindsua.com](https://www.digitalmindsua.com) for more information about our company.
+-->
+
+Follow us on [LinkedIn](https://www.linkedin.com/company/digitalmindsua) for regular updates and behind-the-scenes insights.
 
 We're excited to have you on this journey with us!
 
